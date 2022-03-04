@@ -1,6 +1,5 @@
-# old fashioned Breaking Bad
 
-# I developed aold fashioned breaking bad series fan website with react, redux and router
+# I developed old fashioned breaking bad series fan website with react, redux and router
 ### `npm i @reduxjs/toolkit`
 ### `npm i react-router-dom`
 # I used axios to get the data.
