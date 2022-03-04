@@ -1,0 +1,22 @@
+.special {
+  display: flex;
+}
+ul {
+  margin: 10px;
+  list-style-type: none;
+}
+li {
+  margin-top: 80px;
+}
+#container {
+  margin: 20px 40px;
+}
+p {
+  color: #222222;
+  font-family: "Raleway", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 36px;
+  margin: 0 0 24px;
+  text-align: center;
+}
